@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lo:home|Door43 (lo)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[lo:obs|Open Bible Stories (lo)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lo|d43-lo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lo/archive/master.zip|d43-lo.zip]]
+
+**Recent Changes**
+{{changes>ns = lo}}
+
+**Latest Status**
+{{page>en:uwadmin:lo:obs:status}}
+
