@@ -1,111 +1,67 @@
 ====== 3. The Flood ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
+ຫຼາຍປີຕໍ່ມາຫຼາຍຄົນໄດ້ຢູ່ໃນໂລກ ພວກເຂົາໄດ້ພາກັນເຮັດຊົ່ວແລະເຮັດຜິດສິນທຳ ແລະມີຈິດໃຈຊົ່ວຊ້າ. ສິ່ງເຫຼົ່ານັ້ນເຮັດໃຫ້ພຣະເຈົ້າຕັດສິນໃຈທີ່ຈະທຳລາຍມະນຸດໝົດທັງໂລກໂດຍການເຮັດໃຫ້ນ້ຳຖ້ວມໂລກ.
 
-After a long time, many people were living in the world. They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?direct&}}
 
+ບໍ່ມີມະນຸດຄົນໃດເຮັດໃຫ້ພຣະເຈົ້າພໍພຣະໄທນອກຈາກໂນອາ. ພຣະເຈົ້າຈຶ່ງບອກໂນອາກ່ຽວກັບນໍ້າຖ້ວມໂລກແລະບອກເຖິງແຜນການຂອງພຣະອົງກ່ຽວກັບເຫດການນັ້ນ. ອົງພຣະຜູ້ເປັນເຈົ້າບອກໂນວ່າໃຫ້ສ້າງເຮືອໃຫຍ່ລຳໜຶ່ງຂຶ້ນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg}}
+ພຣະເຈົ້າໄດ້ບອກໂນອາໃຫ້ສ້າງເຮືອທີ່ມີຄວາມຍາວ 140ແມັດ, ກ້ວາງ23ແມັດ ແລະ ສູງ 13.5 ແມັດ. ໂນອາສ້າງເຮືອນັ້ນດ້ວຍໄມ້ແລະເຮັດເປັນ3ຊັ້ນຄື: ຫຼັງຄາ, ປ່ອງຢ້ຽມ ແລະຫ້ອງຫຼາຍຫ້ອງສຳລັບຄອບຄົວແລະສັດທຸກຊະນິດ. ຊຶ່ງມີແຕ່ລະຫ້ອງ ແຕ່ລະຊັ້ນໃນຊ່ວງເວລານ້ຳຖ້ວມ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?direct&}}
 
-But Noah found favor with God. He was a righteous man, living among wicked people. God told Noah about the flood He was planning to send. He told Noah to build a huge boat.
+ໂນອາໄດ້ເຊື່ອຟັງແລະເຮັດຕາມຄຳສັ່ງຂອງອົງພຣະຜູ້ເປັນເຈົ້າແລະພຣະເຈົ້າໄດ້ບອກໂນອາວ່າ ໃຫ້ເອົາສັດທຸກຊະນິດເຂົ້າໄປເພາະເຮືອນັ້ນເປັນເຮືອທີ່ໃຫຍ່ຫຼາຍແລະໃຊ້ເວລາເພື່ອຕຽມອາຫານໃຫ້ພຽງພໍສຳລັບຄອບຄົວແລະສັດ. ສ່ວນສັດນັ້ນແມ່ນໃຫ້ເອົາສັດເປັນຄູ່ໆເປັນໂຕຜູ້ໂຕເມຍ ສ່ວນອາຫານນັ້ນແມ່ນໃຫ້ຕຽມໄວ້ສຳລັບ 40ມື້.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg}}
+ເມື່ອທຸກຢ່າງພ້ອມແລ້ວອົງພຣະຜູ້ເປັນເຈົ້າໄດ້ບອກໂນອາໃຫ້ໂນອາເອົາເມຍແລະລູກຊາຍ 3ຄົນແລະທັງລູກໄພ້ເຂົ້າໄປໃນເຮືອລວມທັງໝົດມີ8ຄົນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?direct&}}
 
-God told Noah to make the boat about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood.
+ພຣະເຈົ້າໄດ້ສົ່ງສັດ 7ໂຕຜູ້ແລະ7ໂຕແມ່ຂອງສັດທຸກໆຊະນິດທີ່ສາມາດຖວາຍເປັນເຄື່ອງບູຊາໄດ້ມາໃຫ້ໂນອາ.ເມື່ອພວກເຂົາໄປໃນເຮືອໝົດທຸກຄົນແລ້ວ ອົງພຣະຜູ້ເປັນເຈົ້າກໍປິດປະຕູ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?direct&}}
 
+ຫຼັງຈາກນັ້ນຝົນກໍເລີ່ມຕົກ. ຝົນຕົກແລ້ວຕົກອີກເປັນເວລາ 40ມື້ 40ຄືນບໍ່ຢຸດ!! ລະດັບນ້ຳໄດ້ເພີ່ມຂຶ້ນເລື້ອຍໆ. ມີທັງນ້ຳທີ່ມາກຈາກຝົນແລະນ້ຳທີ່ພົ້ນອອກມາຈາກພື້ນດິນ. ແລ້ວທຸກສິ່ງທຸກຢ່າງທີ່ຢູ່ເທິງໂລກກໍຖືກປົກຄຸມໄດ້ດ້ວຍນ້ຳແມ່ນແຕ່ພູເຂົາທີ່ສູງທີ່ສຸດຍັງຖືກນ້ຳຖ້ວມ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?direct&}}
 
+ທຸກສິ່ງທີ່ມີຊີວິດເທິງໜ້າດິນກໍຕາຍໝົດ ຍົກເວັ້ນຄົນແລະສັດທີ່ຢູ່ໃນເຮືອ ແລ້ວທຸກຄົນແລະສັດທຸກໂຕແລະທຸກສິ່ງທຸກຢ່າງທີ່ຢູ່ໃນເຮືອກໍປອດໄພຈາກນ້ຳຖ້ວມ.
 
-Noah obeyed God. He and his three sons built the boat just the way God had told them. It took many years to build the boat, because it was so big. Noah warned the people about the flood that was coming and told them to turn to God, but they did not believe him.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?direct&}}
 
+ຫຼັງຈາກຝົນເຊົາຕົກ ເຮືອກໍຍັງລອຍຢູ່ເທິງໜ້ານ້ຳເປັນເວລາ 5ເດືອນ ແລະໃນຊ່ວງເວລານັ້ນນ້ຳກໍເລີ່ມບົກລົງ. ແລ້ວມື້ໜຶ່ງເຮືອກໍລອຍໄປຄ້າງຢູ່ເທິງຈອມພູ ແຕ່ນ້ຳຖ້ວມແຜ່ນດິນໂລກຢູ່.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?direct&}}
 
+ຫຼັງຈາກ30ວັນຜ່ານໄປໂນອາໄດ້ສົ່ງນົກກາງແກອອກໄປເພື່ອເບິ່ງວ່ານ້ຳໄດ້ບົກລົງບໍ່. ຈາກນັ້ນ ນົກເຂົາກໍບິນວົນໄປວົນມາເພື່ອຊອກຫາແຜ່ນດິນແຫ້ງ ແຕ່ມັນບໍ່ເຫັນບ່ອນໃດແຫ້ງມັນຈິ່ງບິນກັບມາ.
 
-God also commanded Noah and his family to gather enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?direct&}}
 
+ຫຼັງຈາກນັ້ນໂນອາກໍສົ່ງນົກເຂົາອອກໄປອີກ ແຕ່ມັນກໍບໍ່ສາມາດຊອກຫາແຜ່ນດິນແຫ້ງໄດ້ ສະນັ້ນມັນຈິ່ງກັບມາຫາໂນອາ. ອາທິດຕໍ່ມາ ໂນອາໄດ້ປ່ອຍນົກເຂົາອອກໄປອີກ ແລ້ວມັນກໍກັບມາພ້ອມດ້ວຍໃບໝາກກອກເທດ. ນໍ້າໄດ້ບບົກລົງແລ້ວຕົ້ນໄມ້ໃບຫຍ້າກໍເກີດຂຶ້ນອີກ!
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg}}
+ອາທິດຕໍ່ມາໂນອາໄດ້ປ່ອຍນົກເຂົາອອກໄປອີກເປັນຄັ້ງທີ3. ຄັ້ງນີ້ມັນສາມາດຊອກຫາບ່ອນພັກອາໄສໄດ້ ສະນັ້ນມັນຈິ່ງບໍ່ບິນກັບມາອີກ. ແຜ່ນດິນແຫ້ງໝົດແລ້ວ!
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?direct&}}
 
-God sent a male and a female of every animal and bird to Noah so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be used for sacrifices. When they were all in the boat, God himself closed the door.
+2ເດືອນຕໍ່ມາພຣະເຈົ້າເວົ້າກັບໂນອາວ່າ, “ບັດນີ້ ເຈົ້າແລະຄອບຄົວຂອງເຈົ້າ ພ້ອມທັງສັດທຸກໂຕສາມາດລົງໄປຈາກເຮືອໄດ້ແລ້ວ. ຈົ່ງເກີດລູກ ແລະຫຼານໃຫ້ເຕັມທົ່ວແຜ່ນດິນໂລກ. ສະນັ້ນໂນອາແລະຄອບຄົວຂອງລາວຈຶ່ງອອກມາຈາກເຮືອ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?direct&}}
 
+ຫຼັງຈາກທີ່ໂນອາອອກມາຈາກເຮືອ, ເພິ່ນໄດ້ສ້າງແທ່ນບູຊາ ແລະ ນຳເອົາສັດບາງຊະນິດມາຖວາຍເປັນເຄື່ອງບູຊາ. ພຣະເຈົ້າຊົງພໍພຣະໄທໃນເຄື່ອງຖວາຍຂອງໂນອາແລະໄດ້ອວຍພອນເພິ່ນແລະຄອບຄົວຂອງເພິ່ນ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?direct&}}
 
+ພຣະເຈົ້າກ່າວວ່າ, ເຮົາຂໍສັນຍາວ່າເຮົາຈະບໍ່ສາບແຊ່ງແຜ່ນດິນໂລກຍ້ອນການບາບທີ່ພວກເຂົາເຮັດ ຫຼື ຈະບໍ່ທຳລາຍໂລກດ້ວຍການເຮັດໃຫ້ນ້ຳຖ້ວມອີກຈັກເທື່ອ ເຖິງວ່າພວກເຂົາຈະເຮັດບາບຕັ້ງແຕ່ນ້ອຍຈົນໃຫຍ່.
 
-Then it began to rain, and rain, and rain. It rained for forty days and forty nights without stopping! Water also came gushing up out of the earth. Everything in the whole world was covered with water, even the highest mountains.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?direct&}}
 
+ແລ້ວພຣະເຈົ້າຈິ່ງສ້າງຮຸ້ງກິນນ້ຳຄັ້ງທຳອິດ ເພື່ອເປັນສັນຍາລັກແຫ່ງຄຳສັນຍາຂອງພຣະອົງ. ທຸກຄັ້ງເມື່ອເຫັນຮຸ້ງກິນນໍ້າເທິງຟ້າ ພຣະເຈົ້າຈະລະນຶກເຖິງຄຳສັນຍາທີ່ພຣະອົງມີໄວ້ກັບຄົນຂອງພຣະອົງ.
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg}}
-
-
-Everything that lived on the dry land died, except the people and animals that were in the boat. The boat floated on the water and kept everything inside the boat safe from drowning.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg}}
-
-
-After the rains stopped, the boat floated on the water for five months, and during this time the water started going down. Then one day the boat rested on the top of a mountain, but the world was still covered with water. After three more months, the tops of the mountains were visible.
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg}}
-
-
-After forty more days, Noah sent out a bird called a raven to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg}}
-
-
-Later Noah sent out a bird called a dove. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an olive branch in its beak! The water was going down, and the plants were growing again!
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg}}
-
-
-Noah waited another week and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg}}
-
-
-Two months later God said to Noah, "You and your family and all the animals may leave the boat now. Have many children and grandchildren and fill the earth." So Noah and his family came out of the boat.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg}}
-
-
-After Noah got off the boat, he built an altar and sacrificed some of each kind of animal that could be used for a sacrifice. God was happy with the sacrifice and blessed Noah and his family.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg}}
-
-
-God said, "I promise I will never again curse the ground because of the evil things that people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg}}
-
-
-God then made the first rainbow as a sign of his promise. Every time the rainbow appeared in the sky, God would remember what he promised and so would his people.
-
-//A Bible story from: Genesis 6-8//
-
-
+ເລື່ອງຈາກພຣະຄຳ ປະຖົມມະການ 6-8
