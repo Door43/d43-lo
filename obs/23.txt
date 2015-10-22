@@ -1,63 +1,43 @@
-====== 23. The Birth of Jesus ======
+====== 23. ການເກີດຂອງພະເຢຊູຄຣິດ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
 
-Mary was engaged to a righteous man named Joseph. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame Mary, so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a dream.
+ມາລີໄດ້ໝັ້ນກັບໂຢເຊບຊາຍຊອບທໍາ, ເມື່ອໂຢເຊບໄດ້ຍິນວ່າ: ມາລີຖືພາ, ລາວຮູ້ວ່ານັ້ນບໍ່ແມ່ນລູກຂອງລາວ. ລາວບໍ່ຢາກໃຫ້ມາລີອັບອາຍ, ດັ່ງນັ້ນ ລາວຈຶ່ງວາງແຜນຖອນໝັ້ນກັບມາລີແບບຫງຽບໆ. ກ່ອນທີ່ລາວຈະເຮັດສິ່ງນັ້ນ, ເທວະດາໄດ້ລົງມາຫາ ແລະ ເວົ້າກັບໂຢເຊບໃນຄວາມຝັນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
+ເທວະດາເວົ້າວ່າ: “ໂຢເຊບ, ຢ່າຢ້ານທີ່ຈະເອົາມາລີເປັນເມຍຂອງເຈົ້າ. ເດັກທີ່ຢູ່ໃນທ້ອງຂອງນາງແມ່ນມາຈາກພະວິນຍານບໍລິສຸດ. ນາງຈະໃຫ້ກໍາເນີດເດັກຊາຍຄົນໜຶ່ງ. ໃສ່ຊື່ເດັກນັ້ນວ່າ: ເຢຊູ ( ມີຄວາມໝາຍວ່າ: ‘ຢາເວຜູ້ຊ່ວຍໃຫ້ພົ້ນ’), ເພາະພຣະອົງຈະລົງມາເພື່ອຊ່ວຍປະຊາຊົນໃຫ້ລອດພົ້ນຈາກຄວາມບາບ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
 
-The angel said, "Joseph, do not be afraid to take Mary as your wife. The baby that is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
+ດັ່ງນັ້ນ, ໂຢເຊບຈຶ່ງແຕ່ງງານກັບມາລີ ແລະ ພານາງກັບໄປບ້ານຂອງລາວ, ແຕ່ໂຢເຊບບໍ່ໄດ້ຫຼັບນອນກັບນາງຈົນກ່ວານາງຈະອອກລູກ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
 
+ແຕ່ເມື່ອໃກ້ຈະເຖິງຊ່ວງທີ່ມາລີອອກລູກ ລັດຖະບານໂຣມັນໄດ້ສັ່ງໃຫ້ປະຊາຊົນທຸກຄົນໄປຈົດທະບຽນສໍາມະໂນຄົວບ່ອນທີ່ບັນພະບຸລຸດຂອງເຂົາອາໃສຢູ່. ໂຢເຊບ ແລະ ມາລີເລີຍຈໍາເປັນຕ້ອງເດີນທາງໄກ ຈາກບ່ອນທີ່ເຂົາອາໃສຢູ່ຄືແຕ່ເມືອງນາຊາຫຼັດໄປຫາເມືອງເບັດເລເຮັມ ເພາະບັນພະບຸລຸດເຂົາແມ່ນດາວິດຊຶ່ງບ້ານເກີດແມ່ນຢູ່ເບັດເລເຮັມ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
 
-So Joseph married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
+ເມື່ອເຂົາໄປເຖິງເມືອງເບັດເລເຫັມ, ພວກເຂົາບໍ່ມີບ່ອນພັກອາໃສ. ບ່ອນທີ່ເຂົາສາມາດຫາທີ່ພັກໄດ້ແມ່ນຄອກລ້ຽງສັດ. ເດັກຊາຍໄດ້ເກີດທີ່ນັ້ນ ແລະ ແມ່ຂອງເດັກໄດ້ວາງເຂົາຢູ່ເທິງຮາງໃສ່ອາຫານສັດ, ເພາະເຂົາບໍ່ມີຕຽງໃຫ້ເດັກນອນ. ພວກເຂົາໃສ່ຊື່ເດັກວ່າ: ເຢຊູ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
 
+ໃນຄືນນັ້ນ, ໄດ້ມີຜູ້ລ້ຽງແກະທີ່ຢູ່ໃກ້ກັບທົ່ງນາເຊິ່ງເຂົາກໍາລັງເຝົ້າຝູງສັດຂອງເຂົາ. ໃນທັນໃດນັ້ນ, ໄດ້ມີແສງສະຫວ່າງຂອງເທວະດາປະກົດຕໍ່ໜ້າເຂົາ, ແລະເຂົາຮູ້ສຶກຢ້ານ. ເທວະດາເວົ້າຂຶ້ນວ່າ: “ຢ່າຢ້ານເຮົາເລີຍ, ເພາະເຮົາມາເພື່ອບອກຂ່າວດີແກ່ພວກເຈົ້າ. ພະເມຊີອາ, ພະຜູ້ໂຜດຊ່ວຍໃຫ້ພົ້ນ,  ໄດ້ມາເກີດທີ່ເມືອງເບັດເລເຮັມ!.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
 
-When the time was near for Mary to give birth, the Roman government told everyone to go for a census to the town where their ancestors had lived. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+“ ຈົ່ງໄປຊອກເດັກຄົນນັ້ນ ແລະ ພວກເຈົ້າຈະພົບວ່າເດັກນັ້ນຢູ່ໃນຫໍ່ຜ້າ ແລະ ນອນໃນຮາງຫຍ້າ. ໃນທັນໃດນັ້ນທ້ອງຟ້າກໍ່ເຕັມໄປດ້ວຍບັນດາເທວະດາທີ່ຮ້ອງສັນລະເສີນພະຜູ້ເປັນເຈົ້າວ່າ : ສະຫງ່າລາສີຈົ່ງມີແກ່ພະເຈົ້າໃນສະຫວັນ ແລະ ແຜ່ນດີນໂລກຈົ່ງມີສັນຕິສຸກແກ່ທຸກຄົນທີ່ພະອົງພໍໃຈ!”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
 
+ພວກລ້ຽງແກະກໍມາຮອດບ່ອນພະເຢຊູຢູ່ ແລະ ພົບພະອົງກໍາລັງນອນໃນຮາງຫຍ້າຕາມທີ່ເທວະດາໄດ້ບອກພວກເຂົາ. ພວກເຂົາຕື່ນເຕັ້ນຫຼາຍ, ມາຣີຮູ້ສຶກຍິນດີຫຼາຍຄືກັນ. ແລ້ວພວກລ້ຽງແກະກໍກັບໄປຫາແກະຂອງຕົນທີ່ຢູ່ຕາມທົ່ງນາ ພ້ອມທັງຍົກຍ້ອງພະເຈົ້າ ເພາະສິ່ງທີ່ພວກເຂົາໄດ້ເຫັນ ແລະ ໄດ້ຍິນນັ້ນ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
 
-When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus.
+ແລ້ວຈາກນັ້ນ, ກໍມີນັກປາດນັກປັນຍາທີ່ມາຈາກປະເທດຕາເວັນອອກໄດ້ເຫັນດາວປະຫຼາດປະກົດໃນທ້ອງຟ້າ. ພວກເຂົາຮູ້ວ່າມັນໝາຍເຖິງດາວຂອງກະສັດຢິວອົງໃໝ່ທີ່ຈະເກີດມາ. ສະນັ້ນພວກເຂົາຈຶ່ງເດີນທາງມາເພື່ອຈະພົບພະອົງ,ແລະ ພວກເຂົາກໍມາເຖິງເບັດເລເຮັມ ແລະໄດ້ພົບພະເຢຊູກັບພໍ່ແມ່ຂອງພຣະອົງທີ່ຄອກສັດນັ້ນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
 
+ເມື່ອພວກນັກປາດນັກປັນຍາໄດ້ເຫັນພະເຢຊູກັບແມ່ຂອງເພິ່ນແລ້ວພວກເຂົາກໍກົ້ມຂາບ ແລະ ນະມັດສະ ການພຣະອົງ,  ກ່ອນພວກເຂົາຈະຈາກພຣະເຢຊູໄປ ພວກເຂົາຍັງໄດ້ໃຫ້ສິ່ງຂອງທີ່ມີຄ່າຫຼາຍແກ່ພຣະເຢຊູ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg}}
-
-That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, "Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg}}
-
-"Go search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough." Suddenly, the skies were filled with angels praising God, saying, "Glory to God in heaven and peace on earth to the people he favors!"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg}}
-
-The shepherds soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. They were very excited. Mary was very happy, too. The shepherds returned to the fields where their sheep were, praising God for all they had heard and seen.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg}}
-
-Sometime later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews had been born. So, they traveled a great distance to see this king. They came to Bethlehem and found the house where Jesus and his parents were staying.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg}}
-
-When the wise men saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.
-
-//A Bible story from: Matthew 1; Luke 2//
-
-
+ຈາກພະຄໍາພີ: ມັດທາຍ 1; ລູກາ 2
