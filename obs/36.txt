@@ -1,45 +1,31 @@
-====== 36. The Transfiguration ======
+====== 36. **ການຊົງປ່ຽນພຣະລັກສະນະ**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?direct&}}
 
-One day, Jesus took three of his disciples, Peter, James, and John with him. (The disciple named John was not the same person who baptized Jesus.) They went up on a high mountain by themselves to pray.
+ວັນໜຶ່ງພຣະເຢຊູໄດ້ພາສາວົກສາມຄົນໄປນໍາຄື: ເປໂຕ, ຢາໂກໂບ ແລະ ໂຢຮັນ ( ໂຢຮັນຜູ້ນີ້ບໍ່ແມ່ນຜູ້ດຽວກັນກັບຜູ້ທີ່ຮັບປັບຕິດສະມາໃຫ້ພຣະເຢຊູ). ພວກເຂົາຂຶ້ນໄປເທິງພູສູງໜ່ວຍໜຶ່ງເພື່ອອະທິຖານ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?direct&}}
 
+ໃນຂະນະທີ່ພຣະເຢຊູອະທິຖານຢູ່ນັ້ນ ໃບໜ້າຂອງພຣະອົງກໍປະກົດມີແສງສະຫວ່າງຄ້າຍຄືດວງຕາເວັນ ແລະ ເສຶ້ອຜ້າຂອງພຣະອົງກໍຂາວສະຫວ່າງທີ່ສຸດໃນໂລກທີ່ບໍ່ມີມະນຸດຄົນໃດສາມາດເຮັດໄດ້.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?direct&}}
 
-As Jesus was praying, his face became as bright as the sun and his clothes became as white as light, whiter than anyone on earth could make them.
+ແລ້ວໂມເຊ ແລະ ຜູ້ທໍານວາຍເອລິຢາກໍມາປະກົດຢູ່ທີ່ນັ້ນ. ພວກເພິ່ນແມ່ນຜູ້ທີ່ອາໄສຢູ່ໂລກນີ້ຮ້ອຍປີກ່ອນ. ພວກເພິ່ນໄດ້ໂອ້ລົມກັບພຣະເຢຊູເຖິງການຕາຍຂອງພຣະອົງ, ຄືສິ່ງທີ່ຈະເກີດຂຶ້ນກັບພຣະອົງໃນໄວໆນີ້ທີ່ເຢຣູຊາເລັມ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?direct&}}
 
+ໃນຂະນະທີ່ໂມເຊ ແລະ ເອລິຢາກໍາລັງລົມກັບພຣະເຢຊູຢູ່ນັ້ນ, ເປໂຕເວົ້າກັບພຣະເຢຊູວ່າ: “ພວກຂ້ານ້ອຍໂຊກດີຫຼາຍທີ່ໄດ້ຢູທີ່ນີ້. ຂໍໃຫ້ພວກຂ້ານ້ອຍໄດ້ປຸກຕູບສາມຫຼັງໃຫ້ພຣະອົງໜຶ່ງຫຼັງ, ໂມເຊຫຼັງໜຶ່ງ, ເອລິຢາໜຶ່ງຫຼັງ”. ເປໂຕບໍ່ຮູ້ໂຕເລີຍວ່າໂຕເອງເວົ້າຫຍັງໄປ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?direct&}}
 
-Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death, which would soon happen in Jerusalem.
+ໃນເວລາທີ່ເປໂຕກໍາລັງເວົ້າຢູ່ນັ້ນ, ໄດ້ມີຂີ້ເຟື້ອປະກົດລົງມາພ້ອມແສງສະຫວ່າງ ແລະ ມີສຽງເວົ້າອອກມາຈາກຂີ້ເຟື້ອວ່າ: “ນີ້ແມ່ນລູກຊາຍສຸດທີ່ຮັກຂອງເຮົາ. ເຮົາພໍໃຈໃນລາວຫຼາຍ. ຈົ່ງເຊື່ອຟັງລາວ”. ສາວົກທັງສາມຄົນຢ້ານຫຼາຍຈົນລົມລົງກັບພື້ນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?direct&}}
 
+ຫຼັງຈາກນັ້ນພຣະເຢຊູໄດ້ສໍາພັດໂຕເຂົາ ແລະ ບອກວ່າ: ຢ່າຢ້ານເລີຍ, ລຸກຂຶ້ນສະ. ເມື່ອສາວົກທັງສາມແນມເບິ່ງໄປອ້ອມໆກໍເຫັນແຕ່ພຣະເຢຊູເທົ່ານັ້ນ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?direct&}}
 
-As Moses and Elijah were talking with Jesus, Peter said to Jesus, "It is good for us to be here. Let us make three shelters, one for you, one for Moses, and one for Elijah." Peter did not know what he was saying.
+ແລ້ວພຣະເຢຊູ ແລະ ສາວົກທັງສາມກໍລົງມາຈາກພູເຂົາ. ພຣະເຢຊູບອກເຂົາວ່າ: “ ຢ່າບອກສິ່ງທີ່ພວກເຈົ້າໄດ້ເຫັນໃຫ້ໃຜຮູ້ເທື່ອ ເພາະເຮົາຈະຕາຍໃນໄວໆນີ້ ແລະ ຟື້ນຄືນມາສູ່ຊີວິດອີກຄັ້ງ, ຫຼັ້ງຈາກນັ້ນພວກເຈົ້າຈົ່ງບອກເລື່ອງເຫຼົ່ານັ້ນແກ່ປະຊາຊົນໃຫ້ຮັບຮູ້.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg}}
-
-As Peter was talking, a bright cloud came down and surrounded them and a voice from the cloud said, "This is my Son whom I love. I am pleased with him. Listen to him." The three disciples were terrified and fell on the ground.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg}}
-
-Then Jesus touched them and said, "Do not be afraid. Get up." When they looked around, the only one still there was Jesus.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg}}
-
-Jesus and the three disciples went back down the mountain. Then Jesus said to them, "Do not tell anyone yet about what happened here. I will soon die and then come back to life. After that, you may tell people."
-
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
-
-
+ຈາກພະຄໍາພີ ມັດທາຍ 17:1-9;  ມາລະໂກ 9:2-8; ລູກາ 9:28-36.
