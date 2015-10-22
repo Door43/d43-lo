@@ -1,53 +1,35 @@
-====== 31. Jesus Walks on Water ======
+====== 31. **ພຣະເຢຊູຍ່າງເທິງນ້ຳ**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?direct&}}
 
-Then Jesus told the disciples to get into the boat and sail to the other side of the lake while he dismissed the crowd. After Jesus had sent the crowd away, he went up on a mountainside to pray. Jesus was there all alone, and he prayed until late at night.
+ຫຼັງຈາກທີ່ພຣະເຢຊູໄດ້ບອກໃຫ້ປະຊາຊົນກັບເມືອ ພຣະອົງໄດ້ບອກໃຫ້ສາວົກລົງເຮືອແລະພາຍຂ້າມໄປອີກຟາກໜຶ່ງຂອງທະເລສາບກ່ອນ. ຈາກນັ້ນພຣະອົງກໍຂຶ້ນໄປເທິງພູເຂົາພຽງຄົນດຽວເພື່ອອະທິຖານ. ພຣະອົງອະທິຖານຢູ່ທີ່ນັ້ນຄົນດຽວຈົນເຖິງທ່ຽງຄືນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?direct&}}
 
+ຈົນເຖິງຕອນກາງຄືນແລ້ວ ແຕ່ພວກສາວົກຍັງຄົງພາຍເຮືອມາຮອດແຕ່ກາງທະເລສາບເທົ່ານັ້ນ ເພາະພວກເຂົາຕ້ອງພາຍເຮືອຕ້ານກັບລົມພາຍຸທີ່ກຳລັງພັດຢ່າງຮຸນແຮງ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?direct&}}
 
+ຫຼັງຈາກພຣະເຢຊູອະທິຖານແລ້ວ ພຣະອົງກໍຍ່າງເທິງໜ້ານ້ຳ! ເພື່ອຂ້າມທະເລສາບໄປຫາເຮືອທີ່ພວກສາວົກຢູ່.
 
-Meanwhile, the disciples were rowing their boat, but by late in the night they had only reached the middle of the lake. They were rowing with great difficulty because the wind was blowing hard against them. 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?direct&}}
 
+ເມື່ອພວກເຂົາແນມເຫັນພຣະເຢຊູ ກໍເກີດມີຄວາມຢ້ານເພາະພວກເຂົາຄິດວ່າພວກເຂົາກຳລັງເຫັນຜີ. ພຣະເຢຊູຊົງຮູ້ວ່າພວກເຂົາຮູ້ສຶກຢ້ານ ຈິ່ງຮ້ອງໃສ່ພວກເຂົາວ່າ, ຢ່າສູ່ຢ້ານ ນີ້ແມ່ນເຮົາເອງ!”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg}}
+ແລ້ວເປໂຕກໍເວົ້າກັບພຣະເຢຊູວ່າ, ນາຍເຈົ້າເອີຍ, ຖ້າແມ່ນທ່ານແທ້, ຈົ່ງສັ່ງໃຫ້ຂ້ານ້ອຍຍ່າງເທິງໜ້ານ້ຳໄປຫາພຣະອົງ.” ພຣະເຢຊູຊົງຕອບເປໂຕວ່າ, ຈົ່ງມາເຖີດ!”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?direct&}}
 
-Then Jesus finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
+ສະນັ້ນເປໂຕຈິ່ງກ້າວອອກຈາກເຮືອແລະຍ່າງເທິງໜ້ານ້ຳໄປຫາພຣະເຢຊູ. ຫຼັງຈາກຍ່າງໄປໄດ້ໄລຍະໜຶ່ງ ລາວກໍບໍ່ຫຼຽວເບິ່ງພຣະເຢຊູ ແຕ່ກັບຫຼຽວໄປເບິ່ງຄື້ນທີ່ພັດເຂົ້າມາຢ່າງຮຸນແຮງນັ້ນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?direct&}}
 
+ແລ້ວເປໂຕກໍຮູ້ສຶກຢ້ານແລະເລີ່ມຈົມລົງໄປໃນນ້ຳ ລາວຮ້ອງຂຶ້ນວ່າ, “ເຈົ້າເອີ່ຍ, ຂໍໂຜດຊ່ວຍຂ້ານ້ອຍແດ່ທ້ອນ!” ພຣະເຢຊູຈຶ່ງຍື່ນມືອອກໄປຈັບມືຂອງລາວໄວ້ແລະກ່າວກັບລາວວ່າ, “ໂອ້ຊາຍຜູ້ມີຄວາມເຊື່ອໜ້ອຍເອີຍ, ເປັນຫຍັງເຈົ້າຈຶ່ງສົງໄສ?”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?direct&}}
 
-The disciples were very afraid when they saw Jesus, because they thought they were seeing a ghost. Jesus knew that they were afraid, so he called out to them and said, "Do not be afraid. It is I!"
+ທັນທີທີ່ພຣະເຢຊູແລະເປໂຕກັບເຂົ້າໄປໃນເຮືອ ແລ້ວພາຍຸກໍສະຫງົບງຽບລົງ. ພວກສາວົກພາກັນປະຫຼາດໃຈແລະເວົ້າກັບພຣະອົງວ່າ, “ຈິງແທ້ແລ້ວ! ທ່ານເປັນພຣະບຸດຂອງພຣະເຈົ້າ.”
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg}}
-
-Then Peter said to Jesus, "Master, if it is you, command me to come to you on the water." Jesus told Peter, "Come!"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg}}
-
-So, Peter got out of the boat and started walking to Jesus on the surface of the water. But after walking a short distance, he turned his eyes away from Jesus and began to look at the waves and to feel the strong wind.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg}}
-
-Then Peter became afraid and began to sink in the water. He cried out, "Master, save me!" Jesus reached out right away and grabbed him. Then he said to Peter, "You man of little faith, why did you doubt?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg}}
-
-When Peter and Jesus got into the boat, the wind immediately stopped blowing and the water became calm. The disciples were amazed. They worshiped Jesus, saying to him, "Truly, you are the Son of God."
-
-//A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21//
-
-
+ບົດເລື່ອງຈາກພຣະຄຳພີ 14:22-33; ມາຣະໂກ6:45-52; ໂຢຮັນ6:16-21
