@@ -1,53 +1,35 @@
-====== 41. God Raises Jesus from the Dead ======
+====== 41. ພຣະເຢຊູເປັນຄືນມາຈາກຕາຍ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?direct&}}
 
-After the soldiers crucified Jesus, the unbelieving Jewish leaders said to Pilate, "That liar, Jesus, said he would rise from the dead after three days. Someone must guard the tomb to make sure that his disciples do not steal the body and then say he has risen from the dead."
+ຫຼັງຈາກພວກທະຫານໄດ້ຄຶງ ພຣະເຢຊູເຈົ້າທີ່ໄມ້ກາງແຂນແລ້ວ, ຜູ້ນໍາຊາວຢິວໄດ້ເວົ້າກັບປີຮາດວ່າ,” ເຢຊູຄົນຂີ້ຕົວະເຄີຍເວົ້າວ່າ, ລາວຈະເປັນຄືນມາຈາກຕາຍຫຼັງຈາກສາມວັນ.  ຕ້ອງມີຄົນໄປຍາມອຸໂມງນັ້ນ ເພື່ອໃຫ້ແນ່ໃຈວ່າ ພວກສາວົກຂອງລາວຈະບໍ່ໄດ້ລັກເອົາສົບ ແລະ ບອກວ່າລາວເປັນຄືນມາຈາກຕາຍ.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?direct&}}
 
+ປີຣາດເວົ້າວ່າ, “ເອົາພວກທະຫານໄປຍາມອຸໂມງໄວ້ ແລະ ປ້ອງກັນອຸໂມງນັ້ັນເທົ່າທີ່ຈະປ້ອງກັນໄດ້.” ດັ່ງນັ້ນ, ພວກທະຫານຈຶ່ງ ເອົາກ້ອນຫີນອັດປາກອຸໂມງ ແລະ ເອົາພວກທະຫານໄປຍາມໄວ້ເພື່ອບໍ່ໃຫ້ຜູ້ໃດລັກເອົາສົບໄດ້.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?direct&}}
 
-Pilate said, "Take some soldiers and make the tomb as secure as you can." So they placed a seal on the stone at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
+ມື້ຕໍ່ມາ, ຫຼັງຈາກພຣະເຢຊູຖືກຟັງຢູ່ນັ້ນເປັນວັນສະບາໂຕ ແລະ ຊາວຢິວ ບໍ່ສາມາດທີ່ຈະເຂົ້າໄປຂຸມຝັງສົບໃນມື້ນັ້ນ. ໃນຕອນເຊົ້າຫຼັງຈາກວັນສະບາໂຕ, ຜູ້ຍິງຫຼາຍຄົນໄດ້ຈັດຕຽມເອົາເຄື່ອງຫອມເພື່ອທີ່ຈະໄປຄຸມຝັງສົບຂອງພຣະເຢຊູ ເພື່ອຫົດສົງພຣະສົບຂອງພຣະອົງ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?direct&}}
 
+ທັນໃດນັ້ນ, ເກີດມີແຜ່ນດິນໄຫວ, ເທວະດາໄດ້ລົງມາຈາກສະຫວັນ ເປັ່ງແສງເຫຼື້ອມສົດໃສ ເໝືອນດັ່ງຟ້າແມບໄດ້ມາປະກົດ, ເພິ່ນກິ້ງກ້ອນຫີນທີ່ປິດທາງເຂົ້າຫຼຸມຝັງສົບອອກ ແລະ ນັ່ງເທິງກ້ອນຫີນນັ້ນ. ທະຫານທີ່ເຝົ້າອຸໂມງຝັງສົບທີ່ນັ້ນ ຕົກໃຈຫຼາຍ ແລະ ລົ້ມລົງເໝືອນຄົນຕາຍ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?direct&}}
 
-The day after Jesus was buried was a Sabbath day, and the Jews were not permitted to go to a tomb on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus' tomb to put more burial spices on his body.
+ເມື່ອພວກຜູ້ຍິງມາເຖິງອຸໂມງ ເທວະດາໄດ້ເວົ້າກັບພວກເຂົາວ່າ, “ຢ່າຢ້ານເລີຍ. ເພາະພຣະເຢຊູບໍ່ໄດ້ຢູ່ທີ່ນີ້. ພຣະອົງໄດ້ຟື້ນຈາກຄວາມຕາຍແລ້ວ, ເໝືອນດັ່ທີ່ພຣະອົງເຄີຍກ່າວໄວ້. ເບິ່ງທີ່ອຸໂມງແມ້! ພວກຜູ້ຍິງແນມເຂົ້າໄປທີ່ອຸໂມງເພື່ອຊອກຫາວ່າພຣະເຢຊູຢູ່ໃສ.ແຕ່ພຣະອົງບໍ່ໄດ້ຢູ່ທີ່ນັ້ນ.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?direct&}}
 
+ເທວະດາໄດ້ກ່າວແກ່ພວກເຂົາວ່າດ “ຈົ່ງໄປ ແລະ ບອກສາວົກຂອງພຣະເຢຊູເຈົ້າ, ພຣະເຢຊູເຈົ້າໄດ້ຟື້ນມາຈາກຄວາມຕາຍ ແລະ ພຣະອົງຈະໄປເມືອງຄາລີເລກ່ອນໜ້າພວກເຂົາ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?direct&}}
 
-Suddenly, there was a great earthquake. An angel that shone as bright as lightning appeared from heaven. He rolled away the stone that was covering the entrance to the tomb and sat on it. The soldiers guarding the tomb were terrified and fell to the ground like dead men.
+ພວກຜູ້ຍິງເຕັມໄປດ້ວຍຄວາມຕື່ນເຕັ້ນ ແລະ ຊື່ນຊົມຍິນດີ ພວກເຂົາແລ່ນອອກໄປ ແລະ ບອກກບພວກສາວົກຂອງພຣະອົງ, ມີຂ່າວດີມາບອກ.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?direct&}}
 
+ໃນຂະນະທີ່ພວກຜູ້ຍິງກໍາລັງໄປບອກພວກສາວົກເລື່ອງຂ່າວດີ, ພຣະເຢຊູໄດ້ມາປະກົດແກ່ພວກເຂົາ, ແລະພວກເຂົາກໍນະມັດສະການພຣະອົງ, ພຣະເຢຊູເຈົ້າໄດ້ກ່າວວ່າ,”ຢ່າຢ້ານເລີຍ, ຈົ່ງໄປບອກພວກສາວົກຂອງເຮົາໃຫ້ໄປທີ່ເມືອງຄາລີເລ ພວກເຂົາຈະເຫັນເຮົາຢູ່ທີ່ນັ້ນ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg}}
-
-When the women arrived at the tomb, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the tomb and see." The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg}}
-
-
-Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to Galilee ahead of you.'"
-
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg}}
-
-
-The women were full of fear and great joy. They ran to tell the disciples the good news.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg}}
-
-As the women were on their way to tell the disciples the good news, Jesus appeared to them, and they worshiped him. Jesus said, "Do not be afraid. Go and tell my disciples to go to Galilee. They will see me there."
-
-//A Bible story from: Matthew 27:62-28:15; Mark 16:1-11; Luke 24:1-12; John 20:1-18//
-
-
+ບົດເລື່ອງຈາກພະຄໍາພີ  ມັດທາຍ 27:62;​ 28:15;  ມາລະໂກ 16:1-11;  ລູກາ24:1-12;   ໂຢຮັນ 20:1-18
