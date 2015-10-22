@@ -1,58 +1,39 @@
-====== 44. Peter and John Heal a Beggar ======
+====== 44. **ເປໂຕແລະໂຢຮັນຮັກສາຄົນຂໍທານ**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?direct&}}
 
-One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money.
+ວັນໜຶ່ງເປໂຕແລະໂຢຮັນກຳລັງໄປທີ່ພຣະວິຫານ. ເມື່ອພວກເຂົາໄປໃກ້ປະຕູພຣະວິຫານ, ພວກເຂົາເຫັນຄົນຂໍທານຄົນໜຶ່ງນັ່ງຂໍເງິນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?direct&}}
 
+ເປໂຕແນມເບິ່ງຊາຍເປ້ຍຂໍທານຄົນນັ້ນແລະເວົ້າວ່າ, “ເຮົາບໍ່ມີເງິນທີ່ຈະໃຫ້ເຈົ້າ. ແຕ່ເຮົາຈະເອົາສິ່ງທີ່ເຮົາມີໃຫ້ເຈົ້າ. ຄືໃນນາມຂອງພຣະເຢຊູ, ຈົ່ງລຸກຂຶ້ນແລະຍ່າງ!”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?direct&}}
 
-Peter looked at the lame man and said, "I do not have any money to give you. But I will give you what I do have. In the name of Jesus, get up and walk!"
+ໃນທັນໃດນັ້ນ, ພຣະເຈົ້າໄດ້ຮັກສາຄົນເປ້ຍທີ່ນັ່ງຂໍທານ, ແລະລາວກໍເລີ່ມລຸກຂຶ້ນຍ່າງແລະເຕັ້ນໂລດສັນລະເສີນພຣະເຈົ້າ. ຄົນທີ່ຢູ່ໃນບໍລິເວນພຣະວິຫານນັ້ນຕ່າງກໍຮູ້ສຶກປະຫຼາດໃຈ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?direct&}}
 
+ຄົນທັງຫຼາຍກໍຟ້າວມາເບິ່ງຊາຍຜູ້ທີ່ໄດ້ຮັບການຮັກສາຄົນນັ້ນ. ເປໂຕກ່າວກ່າວກັບພວກເຂົາວ່າ, “ເປັນຫຍັງພວກເຈົ້າຈຶ່ງຮູ້ສຶກປະຫລາດໃຈທີ່ຊາຍຄົນນີ້ໄດ້ຮັບການຮັກສາ?ພວກເຮົາບໍ່ໄດ້ຮັກສາລາວດ້ວຍຣິດອຳນາດຫຼືຄວາມດີຂອງພວກເຮົາ. ແຕ່ດ້ວຍຣິດອຳນາດຂອງພຣະເຢຊູ ແລະດ້ວຍຄວາມເຊື່ອວ່າພຣະເຈົ້າໄດ້ຊົງຮັກສາຊາຍຄົນນີ້ແລ້ວ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?direct&}}
 
-Immediately, God healed the lame man, and he began to walk and jump around, and to praise God. The people in the courtyard of the Temple were amazed.
+ພວກເຈົ້າເປັນຄົນບອກພວກເຈົ້າໜ້າທີ່ຊາວໂຣມໃຫ້ຂ້າພຣະເຢຊູ. ພວກເຈົ້າໄດ້ຂ້າຜູ້ໃຫ້ຊີວິດ, ແຕ່ພຣະເຈົ້າໄດ້ຊົງບັນດານໃຫ້ພຣະອົງເປັນຄືນມາຈາກຕາຍ. ເຖິງວ່າພວກເຈົ້າຈະບໍ່ເຂົ້າໃຈໃນສິ່ງທີ່ພວກເຈົ້າເຮັດລົງໄປນັ້ນ ພຣະເຈົ້າໄດ້ຊົງໃຫ້ການກະທຳຂອງພວກທ່ານສຳເລັດຕາມຜູ້ປະກາດພຣະຄຳໄດ້ບອກໄວ້ຄື ພຣະເມຊີອາຈະຕ້ອງທົນທຸກທໍລະມານແລະຕາຍໄປ. ສະນັ້ນ ຈົ່ງຖິ້ມໃຈເກົ່າເອົາໃຈໃໝ່ແລະກັບມາຫາພຣະເຈົ້າ ເພື່ອຄວາມຜິດບາບຂອງພວກເຈົ້າຈະໄດ້ຮັບການຊຳລະລ້າງໃຫ້ໝົດໄປ.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?direct&}}
 
+ບັນດາຜູ້ນຳໃນພຣະວິຫານຮູ້ສຶກໃຈຮ້າຍກັບຄຳເວົ້າຂອງເປໂຕແລະໂຢຮັນ. ສະນັ້ນພວກເຂົາຈຶ່ງຈັບເປໂຕແລະໂຢຮັນຂັງໄວ້ໃນຄຸກ. ແຕ່ກໍມີຫຼາຍຄົນໄດ້ເຊື່ອໃນຄຳເວົ້າຂອງເປໂຕ ແລະກໍເລີ່ມມີຫຼາຍຄົນຮັບເຊື່ອໃນພຣະເຢຊູຈົນເຖິງປະມານ 5,000ຄົນ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?direct&}}
 
-A crowd of people quickly came to see the man who was healed. Peter said to them, "Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the power of Jesus and the faith that Jesus gives that healed this man."
+ໃນວັນຕໍ່ມາ ພວກຜູ້ນຳຢິວໄດ້ນຳເປໂຕແລະໂຢຮັນໄປຫາປະໂຣຫິດຕົນໃຫຍ່ແລະຜູ້ນຳສາສໜາຄົນອື່ນໆ. ພວກເຂົາໄດ້ຖາມເປໂຕແລະໂຢຮັນວ່າ, “ພວກທ່ານຮັກສາຊາຍເປ້ຍຄົນນັ້ນດ້ວຍຣິດອຳນາດຂອງໃຜ?
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?direct&}}
 
+ເປໂຕຕອບພວກເຂົາວ່າ, “ຊາຍຄົນທີ່ກຳລັງຢືນຢູ່ຕໍ່ໜ້າທ່ານນີ້ແມ່ນໄດ້ຮັບການຮັກສາຈາກຣິດອຳນາດຂອງພຣະເຢຊູຜູ້ຊົງເປັນພຣະເມຊີອາ. ພວກເຈົ້າໄດ້ຄຶງພຣະອົງໄວ້ເທິງໄມ້ກາງແຂນແຕ່ພຣະເຈົ້າໄດ້ຊົງໂຜດບັນດານໃຫ້ພຣະອົງເປັນຄືນມາມີຊີວິດອີກຄັ້ງ! ພວກທ່ານໄດ້ປະຕິເສດພຣະອົງ, ບໍ່ມີທາງໃດທີ່ຈະເຮັດໃຫ້ທ່ານລອດພົ້ນໄດ້ນອກຈາກຣິດອຳນາດຂອງອົງພຣະເຢຊູ!”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?direct&}}
 
-"You are the ones who told the Roman governor to kill Jesus. You killed the author of life, but God raised him from the dead. Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would suffer and die. So now, repent and turn to God so that your sins will be washed away."
+ພວກຜູ້ນຳທັງຫຼາຍຕົກໃຈໃນສິ່ງທີ່ເປໂຕແລະໂຢຮັນໄດ້ກ່າວຢ່າງໜັກແໜ້ນ ເພາະພວກເຂົາເຫັນວ່າພວກເພິ່ນເປັນພຽງປະຊາຊົນທຳມະດາທີ່ບໍ່ມີການສຶກສາ. ແຕ່ພວກເຂົາກໍຍັງຈື່ໄດ້ວ່າພວກເພິ່ນເຄີຍຢູ່ກັບພຣະເຢຊູ. ເມື່ອພວກເຂົາຂູ່ເຂັນເປໂຕແລະໂຢຮັນສຳເລັດແລ້ວ ພວກເຂົາກໍປ່ອຍພວກເພິ່ນທັງສອງໄປ.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg}}
-
-The leaders of the Temple were very upset by what Peter and John were saying. So they arrested them and put them into prison. But many of the people believed Peter's message, and the number of men who believed in Jesus grew to about 5,000.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg}}
-
-The next day, the Jewish leaders brought Peter and John to the high priest and the other religious leaders. They asked Peter and John, "By what power did you heal this crippled man?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg}}
-
-Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg}}
-
-The leaders were shocked that Peter and John spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and John, they let them go.
-
-
-//A Bible story from: Acts 3:1-4:22//
-
-
+**ບົດເລື່ອງຈາກພຣະຄຳພີ: ກິດຈະການ 3:1-4:22**
