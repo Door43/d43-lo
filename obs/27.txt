@@ -1,68 +1,47 @@
-====== 27. The Story of the Good Samaritan ======
+====== 27. ຊາວສະມາເຣຍຜູ້ໃຈດີ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
 
-One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal life?" Jesus answered, "What is written in God's law?"
+ມື້ໜຶ່ງ, ນັກທໍາມະຈານຄົນໜຶ່ງໄດ້ມາຫາພຣະເຢຊູ ເພື່ອທົດຊອບພຣະອົງ, ລາວເວົ້າຂຶ້ນວ່າ, “ອາຈານ, ຂ້ານ້ອຍຕ້ອງເຮັດແນວໃດເພື່ອຈະໄດ້ຊີວິດນິລັນດອນ?” ພຣະເຢຊູຕອບວ່າ, “ໃນພະບັນຍັດຂອງພຣະເຈົ້າໄດ້ຂຽນໄວ້ວ່າຈັ່ງໃດ?”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
 
+ນັກທໍາມະຈານເວົ້າວ່າ, ພຣະບັນຍັດຂອງພຣະເຈົ້າຂຽນໄວ້ວ່າ”ຈົ່ງຮັກພຣະເຈົ້າຂອງເຈົ້າດ້ວຍສຸດຈິດສຸດໃຈ, ສຸດກໍາລັງແລະ ສຸດຄວາມຄິດ. ແລະ ຈົ່ງຮັກເພື່ອນບ້ານເໝືອນກັບຮັກຕົນເອງ.”  ພຣະເຢຊູຕອບວ່າ, “ເຈົ້າເວົ້າຖືກແລ້ວ! ຈົ່ງປະຕິບັດຕາມນັ້ນແລ້ວເຈົ້າຈະມີຊີວິດນິລັນດອນ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
 
-The law expert replied that God's law says, "Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself." Jesus answered, "You are correct! Do this and you will live."
+ແຕ່ທໍາມະຈານຍັງຢາກທົດສອບ ວ່າລາວເປັນຄົນຊອບທໍາ, ສະນັ້ນ, ລາວຈຶ່ງຖາມພຣະອົງວ່າ, “ໃຜຄືເພື່ອນບ້ານຂອງຂ້ານ້ອຍ?”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
 
+ພຣະເຢຊູໄດ້ຕອບທໍາມະຈານໂດຍຜ່ານການເລົ່າເລື່ອງໜຶ່ງ. “ໄດ້ມີຊາຍຢິວຄົນໜຶ່ງກໍາລັງເດີນທາງຕາມຖະໜົນ ຈາກກຸງເຢລູຊາເລັມໄປ ເມືອງເຢລິໂກ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
 
-But the law expert wanted to prove that he was righteous, so he asked, "Who is my neighbor?"
+ໃນຂະນະທີ່ຊາຍຄົນນັ້ນກໍາລັງເດີນທາງ ລາວໄດ້ຖືກໂຈນປຸ້ນ. ພວກເຂົາເອົາທຸກຢ່າງທີ່ລາວມີ ແລະ ຕີລາວຈົນເກືອບຕາຍ. ແລ້ວໂຈນກໍໜີໄປ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg}}
+ຫຼັງຈາກນັ້ນບໍ່ດົນ, ກໍບັງເອີນມີນັກບວດຢ່າງລົງມາທາງດຽວກັນ. ເມື່ອຜູ້ນໍາສາສະໜາຫຼຽວເຫັນຊາຍຄົນນັ້ນ ທີ່ຖືກປຸ້ນ ແລະ ຖືກຕີ. ລາວຍ່າງເວັ້ນໄປເສັ້ນທາງອື່ນ. ໂດຍບໍ່ສົນໃຈຄົນທີ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອ.
 
-Jesus answered the law expert by telling a story. "There was a Jewish man who was traveling along the road from Jerusalem to Jericho."
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
 
+ບໍ່ດົນຫຼັງຈາກນັ້ນ. ຄົນເລວີຄົນໜຶ່ງໄດ້ມາຕາມເສັ້ນທາງ ( ເລວີ ແມ່ນຊົນເຜົ່າໜຶ່ງຂອງຊາວຢິວ. ເຊິ່ງເປັນຜູ້ຊ່ວຍປະໂລຫິດໃນພະວິຫານ) ເລວີກໍຍ່າງຂ້າມໄປອີກຝາກໜຶ່ງຂອງຖະໜົນ ແລະ ບໍ່່ສົນໃຈຄົນທີ່ຖືກປຸ້ນຖືກຕີນັ້ນ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg}}
+ຄົນຕໍ່ໄປໄດ້ຢ່າງລົງມາຕາມເສັ້ນທາງເຊິ່ງເປັນຄົນຊາມາເລຍ, (ຊາມາເລຍ ເປັນລູກຫຼານຂອງຊາວຢິວທີ່ແຕ່ງງານກັບຊົນຊາດອື່ນ. ຊາມາເລຍ ແລະ ຊາວຢິວກຽດຊັງເຊິ່ງກັນ ແລະ ກັນ.) ແຕ່ເມື່ອຊາມາເລຍໄດ້ເຫັນຊາຍຢິວຄົນນັ້ນ; ລາວຮູ້ສຶກສົງສານຊາຍຄົນນັ້ນຫຼາຍ. ດັ່ງນັ້ນ ລາວຈຶ່ງຊ່ວຍ ແລະ ເອົາຜ້າພັນແຜໃຫ້ຊາຍຄົນນັ້ນ.
 
-"While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away."
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
 
+ຊາວຊາມາເລຍໄດ້ຍົກຊາຍຄົນນັ້ນ ຂຶ້ນເທິງຫຼັງໂຕລໍຂອງລາວ ແລະ ໄດ້ພາຊາຍຄົນນັ້ນໄປທີ່ໂຮງແຮມແຫ່ງໜຶ່ງ ພ້ອມກັບດູແລລາວ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg}}
+“ມື້ຕໍ່ມາ, ຊາຍຊາມາເລຍ ຈໍາເປັນຕ້ອງເດີນທາງຕໍ່.ລາວໄດ້ເອົາເງິນໃຫ້ຜູ້ດູແລໃນໂຮງແຮມ ແລະ ເວົ້າວ່າ: ຈົ່ງເບິ່ງແຍງລາວ ແລະ ຖ້າມີຄ່າໃຊ້ຈ່າຍທີ່ຫຼາຍກ່ວາທີ່ຂ້ອຍໃຫ້, ເມື່ອຂ້ອຍກັບມາຂ້ອຍຈະໃຊ້ແທນເມື່ອຂ້ອຍກັບມາ.”
 
-"Soon after that, a Jewish priest happened to walk down that same road. When this religious leader saw the man who had been robbed and beaten, he moved to the other side of the road, ignored the man who needed help, and kept on going."
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
 
+ຫຼັງຈາກນັ້ນ ພຣະເຢຊູໄດ້ຖາມທໍາມະຈານວ່າ, “ເຈົ້າຄິດວ່າແນວໃດ ໃນຊາຍສາມຄົນນີ້ ຜູ້ໃດເປັນເພື່ອນບ້ານຂອງຊາຍທີ່ຖືກປຸ້ນ ແລະ ຖືກຕີ?” ທໍາມະຈານໄດ້ຕອບວ່າ,”ຜູ້ທີ່ມີຄວາມເມດຕາຕໍ່ລາວ.” ພຣະເຢຊູໄດ້ກ່າວຕໍ່ທໍາມະຈານວ່າ,”ເຈົ້າຈົ່ງໄປແລະ ເຮັດສິ່ງນັ້ນເໝືອນກັນ.”
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg}}
-
-"Not long after that, a Levite came down the road. (Levites were a tribe of Jews who helped the priests at the Temple.) The Levite also crossed over to the other side of the road and ignored the man who had been robbed and beaten."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg}}
-
-"The next person to walk down that road was a Samaritan. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg}}
-
-"The Samaritan then lifted the man onto his own donkey and took him to a roadside inn where he took care of him."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg}}
-
-"The next day, the Samaritan needed to continue his journey. He gave some money to the person in charge of the inn and said, 'Take care of him, and if you spend any more money than this, I will repay those expenses when I return.'"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg}}
-
-Then Jesus asked the law expert, "What do you think? Which one of the three men was a neighbor to the man who was robbed and beaten?" He replied, "The one who was merciful to him." Jesus told him, "You go and do the same."
-
-//A Bible story from: Luke 10:25-37//
-
-
+ເລື່ອງຈາກພະຄໍາພີ  ລູກາ 10:25-37
