@@ -1,75 +1,51 @@
-====== 10. The Ten Plagues ======
+====== 10. **ໄພພິບັດ 10 ຢ່າງ.**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?direct&}}
 
-Moses and Aaron went to Pharaoh. They said, "This is what the God of Israel says, 'Let my people go!'" Pharaoh did not listen to them. Instead of letting the Israelites go free, he forced them to work even harder! 
+ໂມເຊ ແລະ ອາໂລນ ໄດ້ໄປຫາກະສັດຟາໂລດ ແລະ ບອກວ່າ: ນີ້ແມ່ນຄໍາເວົ້າຂອງພະເຈົ້າແຫ່ງອິດສະລາເອນກ່າວ: “ຈົ່ງປ່ອຍປະຊາຊົນຂອງເຮົາໄປ”, ແຕ່ຟາໂລບໍ່ເຊື່ອຟັງທີ່ພະເຈົ້າບອກ. ແທນທີ່ຈະປ່ອຍປະຊາຊົນອິດສະລາເອນໄປ, ແຕ່ກັບບັງຄັບເຂົາເຮັດວຽກໜັກກ່ວາເກົ່າ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?direct&}}
 
+ກະສັດຟາໂລປະຕິເສດທີ່ຈະປ່ອຍປະຊາຊົນອິດສະລາເອນໄປ, ດັ່ງນັ້ນພະເຈົ້າໄດ້ເຮັດໃຫ້ເກີດໄພພິບັດໃຫຍ່ 10 ຢ່າງໃນເອຢິບ. ຈາກໄພພິບັດດັ່ງກ່າວ, ພະເຈົ້າຢາກສະແດງໃຫ້ກະສັດຟາໂລເຫັນວ່າ ພະອົງຊົງລິດອໍານາດຍິ່ງໃຫຍ່ກ່ວາກະສັດຟາໂລ ແລະ ພະເຈົ້າຂອງເອຢິບ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?direct&}}
 
-Pharaoh kept refusing to let the people go, so God sent ten terrible plagues on Egypt. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's gods.
+ພະເຈົ້າໄດ້ເຮັດໃຫ້ແມ່ນໍ້ານິນກາຍເປັນເລືອດ, ແຕ່ກະສັດຟາໂລບໍ່ຍອມປ່ອຍປະຊາຊົນອິດສະລາເອນໄປ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?direct&}}
 
+ພະເຈົ້າໄດ້ສົ່ງກັບລົງມາເຕັມເມືອງເອຢິບ. ຟາໂລໄດ້ຂໍໃຫ້ໂມເຊໄລ່ກົບອອກຈາກເມືອງເອຢິບ, ເມື່ອກົບຕາຍໝົດ, ກະສັດຟາໂລກໍ່ຍັງໃຈແຂງກະດ້າງ ແລະ ບໍ່ຍອມປ່ອຍປະຊາຊົນອິດສະລາເອນໄປຈາກເອຢິບ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?direct&}}
 
-God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
+ດັ່ງນັ້ນພະເຈົ້າໄດ້ສົ່ງຝູງຮີ້ນ. ຫຼັງຈາກນັ້ນພະເຈົ້າກໍ່ຍັງສົ່ງຝູງເຫຼືອກ. ກະສັດຟາໂລໄດ້ຂໍໃຫ້ໂມເຊ ແລະ ອາໂລນໄລ່ໄພພິບັດດັ່ງກ່າວອອກໄປແລ້ວຈະປ່ອຍຊາວອິດສະລະເອນອອກຈາກເອຢິບ. ເມື່ອໂມເຊອະທິຖານຕໍ່ພະເຈົ້າ, ພະເຈົ້າຈຶ່ງເຮັດໃຫ້ຝູງເຫຼືອກດັ່ງກ່າວໝົດໄປຈາກເອຢິບ, ແຕ່ກະສັດຟາໂລຍັງສືບຕໍ່ໃຈແຂງດື້ດຶງບໍ່ຍອມປ່ອຍປະຊາຊົນອິດສະເອນໃຫ້ເປັນອິດສະລະ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?direct&}}
 
+ຕໍ່ມາພະເຈົ້າໄດ້ເຮັດໃຫ້ສັດລ້ຽງທຸກໂຕຂອງປະຊາຊົນເອຢິບລົ້ມປ່ວຍ ແລະ ຕາຍຈົນໝົດ. ແຕ່ກະສັດຟາໂລກໍ່ຍັງໃຈແຂງ ແລະ ບໍ່ຍອມປ່ອຍປະຊາຊົນອິດສະລະເອນໄປ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?direct&}}
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites leave Egypt.
+ພະເຈົ້າບອກໂມເຊປ່ອຍຂີ້ເຖົ່າໃນອາກາດຕໍ່ໜ້າຟາໂລ. ເມື່ອລາວເຮັດແບບນັ້ນ, ພະຍາດຜິວໜັງຮ້າຍແຮງກໍ່ເກີດຂຶ້ນກັບປຊາຊົນເອຢິບທຸກຄົນ, ແຕ່ຍົກເວັ້ນປະຊາຊົນອິດສະລະເອນ. ພະເຈົ້າເຮັດໃຫ້ກະສັດຟາໂລໃຈແຂງຂຶ້ນກ່ວາເກົ່າ ແລະ ຟາໂລກໍ່ບໍ່ປ່ອຍປະຊາຊົນອິດສະລະເອນໄປ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?direct&}}
 
+ຫຼັງຈາກນັ້ນພະເຈົ້າກໍ່ເຮັດໃຫ້ເກີດຝົນໝາກເຫັບທີ່ເຮັດໃຫ້ພືດຜົນຂອງຊາວເອຢິບຖືກທໍາລາຍໝົດ ແລະ ທຸກຄົນທີ່ອອກຈາກບ້ານຈະຕາຍໝົດ. ກະສັດຟາໂລຈຶ່ງເອີ້ນໂມເຊ ແລະ ອາໂລນມາຫາແລ້ວກ່າວວ່າ: ເຮົາມີບາບ. ເຈົ້າຈົ່ງພາປະຊາຊົນຂອງເຈົ້າອອກຈາກເມືອງເຮົາໄປ. ດັ່ງນັ້ນ ໂມເຊຈຶ່ງອະທິຖານກັບພະເຈົ້າແລ້ວຝົນໝາກເຫັບກໍ່ເຊົາຕົກລົງມາຈາກທ້ອງຟ້າ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg?direct&}}
 
-So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh called Moses and Aaron and told them that if they stopped the plague, the Israelites could leave Egypt. When Moses prayed, God removed all the flies from Egypt. But Pharaoh hardened his heart and would not let the people go free.
+ແຕ່ກະສັດຟາໂລກໍ່ເຮັດບາບອີກຄັ້ງ, ລາວບໍ່ຍອມປ່ອຍຊາວອິດສະລະເອນໄປ ແລະ ຍັງສືບຕໍ່ໃຈກແຂງກະດ້າງ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?direct&}}
 
+ພະເຈົ້າຈຶ່ງເຮັດໃຫ້ເກີດຝູງຕັກແຕນເຕັມໄປທົ່ວເມືອງເອຢິບ. ຝູງຕັກແຕນໄດ້ກິນພືດຜົນທີ່ໝາກເຫັບທໍາລາຍບໍ່ໝົດ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?direct&}}
 
-Next, God caused all the farm animals that belonged to the Egyptians to get sick and die. But Pharaoh's heart was hardened, and he would not let the Israelites go.
+ແລ້ວພະເຈົ້າໄດ້ສົ່ງຄວາມມືດຫຼັງຈາກສາມມື້ສຸດທ້າຍ. ມັນມືດຫຼາຍຈົນປະຊາຊົນເອຢິບບໍ່ສາມາດອອກຈາກບ້ານເຂົາໄດ້. ແຕ່ບ່ອນທີ່ຊາວອິດສະລະເອນຢູ່ແມ່ນແຈ້ງສະຫວ່າງ.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?direct&}}
 
+ຫຼັງຈາກເກົ້າໄພພິບັດທີ່ພະເຈົ້າໄດ້ສົ່ງມາສູ່ເອຢິບ, ກະສັດຟາໂລຍັງຄົງປະຕິເສດທີ່ຈະປ່ອຍປະຊາຊົນອິດສະລະເອນເປັນອິດສະລະ. ນັບຕັ້ງແຕ່ຟາໂລບໍ່ເຊື່ອຟັງ, ພະເຈົ້າວາງແຜນຈະສົ່ງໄພພິບັດອັນສຸດທ້າຍທີ່ຈະເຮັດໃຫ້ກະສັດຟາໂລປ່ຽນແນວຄິດ.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg}}
-
-Then God told Moses to throw ashes into the air in front of Pharaoh. When he did, painful skin sores appeared on the Egyptians, but not on the Israelites. God hardened Pharaoh's heart, and Pharaoh would not let the Israelites go free.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg}}
-
-After that, God sent hail that destroyed most of the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, "I have sinned. You may go." So Moses prayed, and the hail stopped falling from the sky.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-09.jpg}}
-
-But Pharaoh sinned again and hardened his heart. He would not let the Israelites go free.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg}}
-
-So God caused swarms of locusts to come over Egypt. These locusts ate all the crops that the hail had not destroyed.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg}}
-
-Then God sent darkness that lasted for three days. It was so dark that the Egyptians could not leave their houses. But there was light where the Israelites lived.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg}}
-
-Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh's mind.
-
-//A Bible story from: Exodus 5-10//
-
-
+ຈາກພະຄໍາພີ: ອົບພະຍົບ: 5-10
