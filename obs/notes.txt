@@ -1,4 +1,4 @@
-====== Translation & Checking Notes ======
+====== Translation & Checking Notes (FOR LAO ) ======
 
 //In order to help translators of [[:lo:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
   - [[:lo:obs:notes:01|The Creation]]
