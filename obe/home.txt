@@ -1,16 +1,10 @@
-====== Complete List of Important Terms (For Lao) ======
+====== Complete List of Important Terms - Laotian ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:lo:obe:kt:home|Key Terms]]
-  * [[:lo:obe:other:home|Other Terms]]
+  * [[:lo:obe:kt:home]]
+  * [[:lo:obe:other:home]]
 
-==== Does a term need to be in either of these lists? ====
+==== All Important Terms: ====
 
-  * [[:lo:bible:team-info:training:topics:kt-yes-no|kt-yes-no]]
-  * [[:en:bible:team-info:training:topics:common-words|Common Words]] - If it's on this list, most likely not.
-  * [[:lo:bible:admin-reports:obe-admin:obe-reject|obe-reject]] - If it's on this list, no.
-
-==== All Terms in the OBE: ====
-
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages lo:obe -r -title -exclude:home -textPages="">
