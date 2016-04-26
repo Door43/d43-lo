@@ -1,10 +1,12 @@
-====== Complete List of Important Terms - Laotian ======
+====== Complete List of translationWords - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:lo:obe:kt:home]]
-  * [[:lo:obe:other:home]]
+  * [[:lo:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:lo:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+
+==== All Terms in the OBE: ====
 
 <nspages lo:obe -r -title -exclude:home -textPages="">
